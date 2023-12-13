@@ -1,2 +1,1 @@
-Click to download button.
-Open AvalonPediaTW.exe
+Click to download button and execute AvalonPediaTW.exe
